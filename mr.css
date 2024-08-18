@@ -1,0 +1,208 @@
+#sridhar {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#ddy {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+#red {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+#kllm {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#llam ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#kou li {
+    margin-left: 20px;
+}
+
+#kou li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#kou li a:hover {
+    text-decoration: underline;
+}
+
+#rgav {
+    background-image: url('srd.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+}
+
+#asa {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#ni {
+    font-size: 24px;
+}
+#btech {
+    background-color: #fff;
+    padding: 60px 0;
+}
+
+#year {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#moana {
+    text-align: center;
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#gunch {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+}
+
+#lara {
+    font-size: 36px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#uni {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+#ver, #mura, #nezuko {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    flex: 1;
+    min-width: 300px;
+    max-width: 32%;
+}
+
+#suty, #hori, #zoro {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#bhuchal, #san, #luffy {
+    font-size: 24px;
+    margin: 20px;
+}
+
+#izmi, #chan, #shanks {
+    font-size: 16px;
+    margin: 0 20px 20px;
+}
+
+#miya, #mikasa, #eren {
+    display: block;
+    margin: 0 20px 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+#ver:hover, #mura:hover, #nezuko:hover {
+    transform: translateY(-10px);
+}
+
+#ver:hover #miya, #mura:hover #mikasa, #nezuko:hover #eren {
+    color: #007bff;
+}
+#yegar {
+    background-color: #333;
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+#levi {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#ackre {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#man {
+    padding: 10px 30px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#man:hover {
+    background-color: #0056b3;
+}
+#ama {
+    background-color: #222;
+    color: #bbb;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#kun {
+    margin: 0;
+    font-size: 14px;
+}
+
+#sj {
+    margin-top: 10px;
+}
+
+#sj a {
+    display: inline-block;
+    margin: 0 10px;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+    color: #bbb;
+    font-size: 20px;
+}
+
+#sj a:hover {
+    opacity: 1;
+    color: #fff;
+}
+
+
+#sj a:hover {
+    opacity: 1;
+}
